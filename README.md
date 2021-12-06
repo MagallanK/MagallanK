@@ -13,8 +13,6 @@
 
 - ☛ 👨‍💻 All of my repositories and projects are available at [https://github.com/MagallanK](https://github.com/MagallanK)
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=magallank&repo=dev.to)](https://github.com/magallank/dev.to)
-
 - 📄 Know about my experiences, a link to my resume - (https://docs.google.com/document/d/1j1Y0HeRLZtsFnhxuX0godXjcyUnX4Sfh1WdTGeI74TM/edit)
 
 <h3 align="left">Connect with me:</h3>
