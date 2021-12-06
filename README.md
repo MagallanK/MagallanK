@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magallank&label=Profile%20views&color=0e75b6&style=flat" alt="magallank" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magallank" alt="magallank" /></a> </p>
-☛ 👨‍💻 Paired Programming Coffee Project is available at [http://localhost:63342/magallan-alejandro-coffee-project/index.html?_ijt=b1i981eu3mlle966hgojvliura&_ij_reload](http://localhost:63342/magallan-alejandro-coffee-project/index.html?_ijt=b1i981eu3mlle966hgojvliura&_ij_reload)
+
+☛ Paired Programming Coffee Project is available at [http://localhost:63342/magallan-alejandro-coffee-project/index.html?_ijt=b1i981eu3mlle966hgojvliura&_ij_reload](http://localhost:63342/magallan-alejandro-coffee-project/index.html?_ijt=b1i981eu3mlle966hgojvliura&_ij_reload)
+
 ☛- 👨‍💻 All of my projects are available at [https://github.com/MagallanK](https://github.com/MagallanK)
 ☛- 👨‍💻 All of my projects are available at [https://github.com/MagallanK](https://github.com/MagallanK)
 ☛- 👨‍💻 All of my projects are available at [https://github.com/MagallanK](https://github.com/MagallanK)
