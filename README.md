@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magallank" alt="magallank" /></a> </p>
 <p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=magallank&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[(https://github-profile-trophy.vercel.app/?username=magallank&theme=onedark)](https://github.com/magallank/github-profile-trophy)
 </p>
 
 - ☛ Paired Programming Coffee Project is available at [https://github.com/mag-alejandro-rodney](https://github.com/mag-alejandro-rodney)
