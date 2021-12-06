@@ -5,13 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magallank" alt="magallank" /></a> </p>
 
-- ☛ Paired Programming Coffee Project is available at [https://github.com/mag-alejandro-rodney](https://github.com/mag-alejandro-rodney)
+- ☛ Paired Programming Coffee Project is available at: 
+  ☛ [https://github.com/mag-alejandro-rodney](https://github.com/mag-alejandro-rodney)
 
-- ☛ Paired Programming Movie Porject is available at [https://github.com/mag-hino-movie-project](https://github.com/mag-hino-movie-project)
+- ☛ Paired Programming Movie Porject is available at: 
+  ☛ [https://github.com/mag-hino-movie-project](https://github.com/mag-hino-movie-project)
 
-- ☛ Weather Map Project is available at [http://localhost:63342/codeup-web-exercises/weather_map.html?_ijt=mqun0nnoundr2lhgcmcbn7d7kv&_ij_reload](http://localhost:63342/codeup-web-exercises/weather_map.html?_ijt=mqun0nnoundr2lhgcmcbn7d7kv&_ij_reload)
+- ☛ Weather Map Project is available at: 
+  ☛ [http://localhost:63342/codeup-web-exercises/weather_map.html?_ijt=mqun0nnoundr2lhgcmcbn7d7kv&_ij_reload](http://localhost:63342/codeup-web-exercises/weather_map.html?_ijt=mqun0nnoundr2lhgcmcbn7d7kv&_ij_reload)
 
-- ☛ 👨‍💻 All of my repositories and projects are available at [https://github.com/MagallanK](https://github.com/MagallanK)
+- ☛ 👨‍💻 All of my repositories and projects are available at:
+  ☛ [https://github.com/MagallanK](https://github.com/MagallanK)
 
 - 📄 Know about my experiences, a link to my resume - (https://docs.google.com/document/d/1j1Y0HeRLZtsFnhxuX0godXjcyUnX4Sfh1WdTGeI74TM/edit)
 
